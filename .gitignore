@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 makefile
 Makefile
 config.log
@@ -13,3 +14,33 @@ stamp-h1
 include/patchlist.h
 .orig
 
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> 6580dcfd918641770949c90ecf80f4a9c924964f
